@@ -1,4 +1,7 @@
 # Fitness-Application
+
+https://github.com/user-attachments/assets/a775abd2-d014-40b2-85b9-0250852ee061
+
 FitnessApp is a comprehensive Android application designed to support users in tracking and improving their general health and fitness. A SCREEN RECORDING is avaliable if you dont want to download the file.
 
 The Fitness Application includes the following:
